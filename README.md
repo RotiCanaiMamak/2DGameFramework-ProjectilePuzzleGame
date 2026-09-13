@@ -71,7 +71,7 @@ FMOD is used to manage:
 - Background music
 - Launch and collision sound effects
 - Menu feedback
-- Win and game-over sounds
+- Win and gameover sounds
 - Runtime mute and volume controls
 
 ## Controls
