@@ -21,12 +21,12 @@ The project separates gameplay systems into focused classes:
 
 ```text
 Game
-├── Window              Win32 window creation and message handling
-├── DirectX             Direct3D 9 device setup and rendering lifecycle
-├── DirectInput         Keyboard and mouse input polling
-├── Audio               FMOD sound loading, playback, and volume control
-├── GameStack           Scene navigation and lifecycle management
-└── GameScene           Shared scene interface
+├── Window ------------ Win32 window creation and message handling
+├── DirectX ----------- Direct3D 9 device setup and rendering lifecycle
+├── DirectInput ------- Keyboard and mouse input polling
+├── Audio ------------- FMOD sound loading, playback, and volume control
+├── GameStack --------- Scene navigation and lifecycle management
+└── GameScene --------- Shared scene interface
     ├── MainMenu
     ├── Level1
     ├── Level2
