@@ -120,10 +120,10 @@ FMOD is used to manage:
 - Built a custom 2D physics system that manages gravity, velocity, acceleration, friction, restitution, wall boundaries, and object-to-object collisions.
 - Implemented charge-based projectile launching, where holding and releasing `Space` applies variable force to the active bird.
 - Collision damage is calculated from impacts, allowing birds to damage and destroy pigs with different health values.
-- Used object-oriented design with reusable `GameObject`, `Bird`, `Pig`, `Sprite`, `Texture`, `Button`, and `PhysicsManager` classes.
-- Implemented sprite-sheet animation for moving characters and visual game objects.
+- Used object oriented design with reusable `GameObject`, `Bird`, `Pig`, `Sprite`, `Texture`, `Button`, and `PhysicsManager` classes.
+- Implemented spritesheet animation for moving characters and visual game objects.
 - Rendered sprites, text, UI elements, and lines with Direct3D 9 and D3DX.
-- Used DirectInput for real-time keyboard and mouse polling.
+- Used DirectInput for realtime keyboard and mouse polling.
 - Created a stack-based scene manager to transition between menus, levels, win states, and loss states.
 - Integrated FMOD for background music, launch effects, collision sounds, menu feedback, muting, and volume control.
-- Added bird-specific gameplay behaviour, including a one-time mid-flight boost for the yellow bird.
+- Added bird specific gameplay behaviour, including a midflight boost for the yellow bird.
