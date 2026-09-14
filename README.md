@@ -1,6 +1,6 @@
 # 2D Game Framework — Projectile Puzzle Game
 
-A C++ 2D projectile puzzle game built as a computer game programming project. The game uses a modular framework with scene management, sprite rendering, realtime input, audio, and custom 2D physics.
+A C++ 2D projectile puzzle game built for the **Computer Game Programming** assignment. The game uses a modular framework with scene management, sprite rendering, realtime input, audio, and custom 2D physics.
 
 Players launch birds at pig targets across three levels, balancing launch power, trajectory, collision damage, and each bird’s abilities.
 
