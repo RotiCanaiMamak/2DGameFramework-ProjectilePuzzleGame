@@ -127,3 +127,26 @@ FMOD is used to manage:
 - Created a stack-based scene manager to transition between menus, levels, win states, and loss states.
 - Integrated FMOD for background music, launch effects, collision sounds, menu feedback, muting, and volume control.
 - Added bird specific gameplay behaviour, including a midflight boost for the yellow bird.
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Level 1
+![Level 1](screenshots/level1.png)
+
+### Level 2
+![Level 2](screenshots/level2.png)
+
+### Level 3
+![Level 3](screenshots/level3.png)
+
+### Level Completed
+![Level Completed](screenshots/level-completed.png)
+
+### Game Over
+![Game Over](screenshots/game-over.png)
