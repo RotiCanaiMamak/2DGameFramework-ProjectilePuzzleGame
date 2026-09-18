@@ -133,9 +133,6 @@ FMOD is used to manage:
 ### Main Menu
 ![Main Menu](screenshots/main-menu.png)
 
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
-
 ### Level 1
 ![Level 1](screenshots/level1.png)
 
